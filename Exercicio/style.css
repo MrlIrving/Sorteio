@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: linear-gradient(to bottom, #007bff, #ffffff);
+    margin: 0;
+    padding: 250px;
+}
+
+.container {
+    background-color: #005eff;
+    color: #fff;
+    text-align: center;
+    margin: 2px;
+    padding: 50px;
+}
+
+.entradas {
+    text-align: center;
+    padding: 10px;
+}
+
+#min {
+    font-family: 'Handjet', cursive, sans-serif;
+    text-decoration: none;
+    padding: 5px 5px;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+#max {
+    font-family: 'Handjet', cursive, sans-serif;
+    text-decoration: none;
+    padding: 5px 5px;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#sortear {
+    font-family: 'Handjet', cursive, sans-serif;
+    font-size: large;
+    background-image: linear-gradient(to bottom, #007bff, #ffffff);
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #444;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px #666;
+}
+
+.TxT1 {
+    font-family: 'Handjet', cursive, sans-serif;
+}
+
+.TxT2 {
+    font-family: 'Handjet', cursive, sans-serif;
+}
+
+.TxT3 {
+    font-family: 'Handjet', cursive, sans-serif;
+}
